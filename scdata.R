@@ -1,9 +1,7 @@
 # Author: Michael Finlayson
 #
 # Description:
-# This object will create a list of umi_counts and metadata for each library
-# that can be found within or below the current directory or directory
-# provided
+# This object encapsulates a single-cell RNA-seq dataset.
 #
 
 ######## -----------------------------------------------------------------------
